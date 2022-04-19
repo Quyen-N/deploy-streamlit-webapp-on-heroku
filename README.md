@@ -25,7 +25,7 @@ The last file, "Procfile" without an extenstion, will tell heroku which file sho
 
 Now we have a nice folder which are ready to deploy. We will make it a git repository by executing this command:
 
-_git init_
+<code>git init</code>
 
 Then login to heroku:
 

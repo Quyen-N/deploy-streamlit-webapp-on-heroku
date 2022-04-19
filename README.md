@@ -40,6 +40,9 @@ Type this command to create your heroku app:
 <code>heroku create "your-model-name"</code>
 
 Now push your repo to heroku and let heroku helps you do the remaining jobs.
+
 <code>git add .</code>
+
 <code>git commit -m "some message"</code>
+
 <code>git push heroku master</code>

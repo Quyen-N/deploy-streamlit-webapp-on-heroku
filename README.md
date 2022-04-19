@@ -39,6 +39,6 @@ Now push your repo to heroku and let heroku helps you do the remaining jobs.
 
 _git add ._ 
 
-_git commit -m "some message" _
+_git commit -m "some message"_
 
 _git push heroku master_

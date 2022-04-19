@@ -29,7 +29,7 @@ Now we have a nice folder which are ready to deploy. We will make it a git repos
 
 Then login to heroku:
 
-_heroku login_
+<code>heroku login</code>
 
 The terminal will help you open the heroku login page. Just follow their instruction then close the browser when you are done.
 
@@ -37,12 +37,14 @@ The terminal will help you open the heroku login page. Just follow their instruc
 
 Type this command to create your heroku app:
 
-_heroku create "your-model-name"_
+<code>heroku create "your-model-name"</code>
 
 Now push your repo to heroku and let heroku helps you do the remaining jobs.
 
-_git add ._ 
-
-_git commit -m "some message"_
-
-_git push heroku master_
+<pre>
+<code>
+git add .
+git commit -m "some message"
+git push heroku master
+</code>
+</pre>
